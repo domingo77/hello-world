@@ -13,3 +13,5 @@ commit1: for test
 commit2: Build umr program
 
 commit3: move amdgpu_dri.so to right path
+
+commit4: add umr to be part of target all
